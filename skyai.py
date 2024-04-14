@@ -46,7 +46,6 @@ def main():
 
 
     testPath = './guess'
-    
 
 
     # Save model to file
